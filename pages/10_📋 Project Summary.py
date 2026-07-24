@@ -62,3 +62,8 @@ ARIMA modelling, and forecasting. The analysis also highlights practical challen
 
 st.divider()
 st.caption("💡 Skills Applied : Python | Numpy | Pandas | Matplotlib | Streamlit | Statsmodels.tsa ")
+
+
+st.markdown("---")
+st.markdown("<h3 style='text-align: center; color: #555555;'>👨‍💻 Developed by Swastika Barui</h3>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: #888888;'>Data Science & Analytics Portfolio</p>", unsafe_allow_html=True)
